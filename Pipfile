@@ -17,6 +17,7 @@ crewai = "*"
 crewai-tools = "*"
 sentence-transformers = "*"
 opencv-python = "*"
+python-dotenv = "*"
 
 [dev-packages]
 ipykernel = "*"
