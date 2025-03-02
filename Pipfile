@@ -18,6 +18,8 @@ crewai-tools = "*"
 sentence-transformers = "*"
 opencv-python = "*"
 python-dotenv = "*"
+jupyter = "*"
+notebook = "*"
 
 [dev-packages]
 ipykernel = "*"
